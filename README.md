@@ -1,4 +1,4 @@
-# NLP pet-project: Talk_and_buy
+# Talk_and_buy
 
 Telegram-чат-бот с тремя интентами. 
 
